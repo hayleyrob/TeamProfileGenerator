@@ -1,5 +1,4 @@
 
- 
 # Employee Profile Generator
  
 A Node Command Line Interface (CLI) that generates profiles for a software development team including a manager and a number of engineers, interns, and other employees.
