@@ -1,4 +1,4 @@
-![badge](https://img.shields.io/github/languages/top/maximilliancharlemagne/profile-generator)
+
  
 # Employee Profile Generator
  
